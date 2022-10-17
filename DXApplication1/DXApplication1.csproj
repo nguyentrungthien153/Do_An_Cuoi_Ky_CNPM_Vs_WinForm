@@ -1,0 +1,382 @@
+﻿<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2DDBCF5C-DBBB-41F1-AA62-00DF75170D1D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DXApplication1</RootNamespace>
+    <AssemblyName>DXApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v22.1" />
+    <Reference Include="DevExpress.Data.Desktop.v22.1" />
+    <Reference Include="DevExpress.Data.v22.1" />
+    <Reference Include="DevExpress.Utils.v22.1" />
+    <Reference Include="DevExpress.Sparkline.v22.1.Core" />
+    <Reference Include="DevExpress.XtraBars.v22.1, Version=22.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v22.1" />
+    <Reference Include="DevExpress.Printing.v22.1.Core" />
+    <Reference Include="DevExpress.Drawing.v22.1" />
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddMemberGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddMemberGUI.Designer.cs">
+      <DependentUpon>AddMemberGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddTimeMemberGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddTimeMemberGUI.Designer.cs">
+      <DependentUpon>AddTimeMemberGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Authorization.cs" />
+    <Compile Include="CategoryManageGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CategoryManageGUI.Designer.cs">
+      <DependentUpon>CategoryManageGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Connection.cs" />
+    <Compile Include="ConnecrServer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConnecrServer.Designer.cs">
+      <DependentUpon>ConnecrServer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomeGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeGUI.Designer.cs">
+      <DependentUpon>HomeGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoadingGUI .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoadingGUI .Designer.cs">
+      <DependentUpon>LoadingGUI .cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginGUI.Designer.cs">
+      <DependentUpon>LoginGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AfterPayClient.cs" />
+    <Compile Include="Models\BeforePayClient.cs" />
+    <Compile Include="Models\Bill.cs" />
+    <Compile Include="Models\Category.cs" />
+    <Compile Include="Models\Client.cs" />
+    <Compile Include="Models\Drink.cs" />
+    <Compile Include="Models\Food.cs" />
+    <Compile Include="Models\GroupClient.cs" />
+    <Compile Include="Models\GroupClientAndGroupUser.cs" />
+    <Compile Include="Models\GroupUser.cs" />
+    <Compile Include="Models\LoginMember.cs" />
+    <Compile Include="Models\Member.cs" />
+    <Compile Include="Models\MemberInformation.cs" />
+    <Compile Include="Models\Model1.cs" />
+    <Compile Include="Models\OrderCard.cs" />
+    <Compile Include="Models\OrderDrink.cs" />
+    <Compile Include="Models\OrderFood.cs" />
+    <Compile Include="Models\sysdiagram.cs" />
+    <Compile Include="Models\TaiKhoan.cs" />
+    <Compile Include="Models\TheCard.cs" />
+    <Compile Include="Models\TheUser.cs" />
+    <Compile Include="Modify.cs" />
+    <Compile Include="OptionGUIcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OptionGUIcs.Designer.cs">
+      <DependentUpon>OptionGUIcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderServiceGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderServiceGUI.Designer.cs">
+      <DependentUpon>OrderServiceGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TaiKhoan.cs" />
+    <EmbeddedResource Include="AddMemberGUI.resx">
+      <DependentUpon>AddMemberGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddTimeMemberGUI.resx">
+      <DependentUpon>AddTimeMemberGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CategoryManageGUI.resx">
+      <DependentUpon>CategoryManageGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConnecrServer.resx">
+      <DependentUpon>ConnecrServer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeGUI.resx">
+      <DependentUpon>HomeGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoadingGUI .resx">
+      <DependentUpon>LoadingGUI .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginGUI.resx">
+      <DependentUpon>LoginGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OptionGUIcs.resx">
+      <DependentUpon>OptionGUIcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderServiceGUI.resx">
+      <DependentUpon>OrderServiceGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home-Server-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\password.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Load.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Money.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bill.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ShutDown.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\X.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\+.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\order.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Addmember.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_account.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\V.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BR.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accountgr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Addmember1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\garbage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_account1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\service.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\moneyyy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unit.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HomeN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Managejpg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\satatistic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\category.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\category1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\food.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Drink.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unit1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\danhmuc.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\password123.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fast-food.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\budget.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LockComP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\switch-off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shutdown123.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_clock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ca.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\password29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\homepage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\categories.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money-.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

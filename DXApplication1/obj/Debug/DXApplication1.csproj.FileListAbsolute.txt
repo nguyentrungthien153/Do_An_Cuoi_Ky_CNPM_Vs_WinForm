@@ -1,0 +1,348 @@
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\DXApplication1.exe.config
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\DXApplication1.exe
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\DXApplication1.pdb
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\DevExpress.BonusSkins.v22.1.dll
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\obj\Debug\DXApplication1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\obj\Debug\DXApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\obj\Debug\DXApplication1.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\obj\Debug\DXApplication1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\obj\Debug\DXApplication1.csproj.CopyComplete
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\obj\Debug\DXApplication1.exe
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\obj\Debug\DXApplication1.pdb
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\obj\Debug\DXApplication1.DatabaseConfigurationGUI.resources
+C:\Users\HP\source\repos\Bai_Do_An\DXApplication1\obj\Debug\DXApplication1.LoadingGUI.resources
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DXApplication1.exe.config
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DXApplication1.exe
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DXApplication1.pdb
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.AddMemberGUI.resources
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.AddTimeMemberGUI.resources
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.CategoryManageGUI.resources
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.DatabaseConfigurationGUI.resources
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.HomeGUI.resources
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.LoadingGUI.resources
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.LoginGUI.resources
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.OptionGUIcs.resources
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.OrderServiceGUI.resources
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.exe.licenses
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.csproj.CopyComplete
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.exe
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.pdb
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\EntityFramework.dll
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\EntityFramework.xml
+C:\Users\Acer\Desktop\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DXApplication1.exe.config
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DXApplication1.exe
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DXApplication1.pdb
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DevExpress.BonusSkins.v22.1.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\EntityFramework.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\EntityFramework.xml
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.AddMemberGUI.resources
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.AddTimeMemberGUI.resources
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.CategoryManageGUI.resources
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.DatabaseConfigurationGUI.resources
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.HomeGUI.resources
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.LoadingGUI.resources
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.LoginGUI.resources
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.OptionGUIcs.resources
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.OrderServiceGUI.resources
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.exe.licenses
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.csproj.CopyComplete
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.exe
+C:\Users\HP\Downloads\Bai_Do_An1\Bai_Do_An1\Bai_Do_An1\DXApplication1\obj\Debug\DXApplication1.pdb
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DXApplication1.exe.config
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DXApplication1.exe
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DXApplication1.pdb
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.BonusSkins.v22.1.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Data.v22.1.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Drawing.v22.1.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Utils.v22.1.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.XtraBars.v22.1.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\EntityFramework.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Data.v22.1.xml
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Utils.v22.1.xml
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.XtraBars.v22.1.xml
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\EntityFramework.xml
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.csproj.AssemblyReference.cache
+D:\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.csproj.SuggestedBindingRedirects.cache
+D:\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.AddMemberGUI.resources
+D:\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.AddTimeMemberGUI.resources
+D:\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.CategoryManageGUI.resources
+D:\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.DatabaseConfigurationGUI.resources
+D:\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.HomeGUI.resources
+D:\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.LoadingGUI.resources
+D:\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.LoginGUI.resources
+D:\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.OptionGUIcs.resources
+D:\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.OrderServiceGUI.resources
+D:\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+D:\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.csproj.GenerateResource.cache
+D:\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.exe.licenses
+D:\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.csproj.CoreCompileInputs.cache
+D:\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.csproj.CopyComplete
+D:\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.exe
+D:\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.pdb
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DXApplication1.exe.config
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DXApplication1.exe
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DXApplication1.pdb
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.AddMemberGUI.resources
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.AddTimeMemberGUI.resources
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.CategoryManageGUI.resources
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.DatabaseConfigurationGUI.resources
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.HomeGUI.resources
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.LoadingGUI.resources
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.LoginGUI.resources
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.OptionGUIcs.resources
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.OrderServiceGUI.resources
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.exe.licenses
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.exe
+C:\Users\ASUS\Desktop\Bai_Do_An1\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.pdb
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DXApplication1.exe.config
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DXApplication1.exe
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DXApplication1.pdb
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\EntityFramework.dll
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Data.v22.1.xml
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Utils.v22.1.xml
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.XtraBars.v22.1.xml
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\EntityFramework.xml
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.csproj.AssemblyReference.cache
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.AddMemberGUI.resources
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.AddTimeMemberGUI.resources
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.CategoryManageGUI.resources
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.DatabaseConfigurationGUI.resources
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.HomeGUI.resources
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.LoadingGUI.resources
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.LoginGUI.resources
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.OptionGUIcs.resources
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.OrderServiceGUI.resources
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.csproj.GenerateResource.cache
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.exe.licenses
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.csproj.CoreCompileInputs.cache
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.csproj.CopyComplete
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.exe
+D:\Visual Studio\source\repos\Do_An_Cuoi_Ky\DXApplication1\obj\Debug\DXApplication1.pdb
