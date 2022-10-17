@@ -44,7 +44,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.label1.Location = new System.Drawing.Point(16, 37);
+            this.label1.Location = new System.Drawing.Point(13, 9);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(125, 21);
@@ -58,7 +58,7 @@
             this.llblSignOut.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.llblSignOut.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
             this.llblSignOut.LinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.llblSignOut.Location = new System.Drawing.Point(640, 37);
+            this.llblSignOut.Location = new System.Drawing.Point(760, 9);
             this.llblSignOut.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.llblSignOut.Name = "llblSignOut";
             this.llblSignOut.Size = new System.Drawing.Size(96, 21);
@@ -120,7 +120,7 @@
             this.Appearance.Options.UseFont = true;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(869, 664);
+            this.ClientSize = new System.Drawing.Size(870, 490);
             this.Controls.Add(this.txtCategory);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.picCategory);

@@ -154,5 +154,27 @@ namespace DXApplication1
                 }
             }
         }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            for (int i = 0; i < drgvClient.Rows.Count; i++)
+            {
+                if (drgvClient.Rows[i].Selected)
+                {
+                    drgvClient.Rows[i].Cells["ActiveStatusClient"].Value = "ONLINE";
+                }
+            }
+        }
+
+        private void picCalculateMoney_Click(object sender, EventArgs e)
+        {
+            for (int i = 0; i < drgvClient.Rows.Count; i++)
+            {
+                if (drgvClient.Rows[i].Selected)
+                {
+                    drgvClient.Rows[i].Cells["StatusClient"].Value = "DISCONNECT";
+                }
+            }
+        }
     }
 }

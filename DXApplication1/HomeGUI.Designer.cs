@@ -213,7 +213,7 @@
             // 
             this.label10.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label10.ForeColor = System.Drawing.Color.Blue;
-            this.label10.Location = new System.Drawing.Point(522, 91);
+            this.label10.Location = new System.Drawing.Point(516, 91);
             this.label10.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(76, 24);
@@ -230,18 +230,20 @@
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 14;
             this.pictureBox2.TabStop = false;
+            this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
             // 
             // drgvClient
             // 
             this.drgvClient.BackgroundColor = System.Drawing.SystemColors.ButtonFace;
             this.drgvClient.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.drgvClient.Location = new System.Drawing.Point(0, 127);
+            this.drgvClient.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.drgvClient.Location = new System.Drawing.Point(4, 131);
             this.drgvClient.Margin = new System.Windows.Forms.Padding(4);
             this.drgvClient.Name = "drgvClient";
             this.drgvClient.RowHeadersWidth = 51;
             this.drgvClient.RowTemplate.Height = 24;
             this.drgvClient.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.drgvClient.Size = new System.Drawing.Size(1189, 415);
+            this.drgvClient.Size = new System.Drawing.Size(1522, 527);
             this.drgvClient.TabIndex = 13;
             this.drgvClient.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.drgvClient_CellContentClick);
             // 
@@ -249,7 +251,7 @@
             // 
             this.label9.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.ForeColor = System.Drawing.Color.Red;
-            this.label9.Location = new System.Drawing.Point(676, 88);
+            this.label9.Location = new System.Drawing.Point(671, 92);
             this.label9.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(76, 24);
@@ -273,7 +275,7 @@
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.ForeColor = System.Drawing.Color.Red;
-            this.label8.Location = new System.Drawing.Point(351, 89);
+            this.label8.Location = new System.Drawing.Point(359, 92);
             this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(75, 19);
@@ -297,7 +299,7 @@
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.Blue;
-            this.label6.Location = new System.Drawing.Point(189, 90);
+            this.label6.Location = new System.Drawing.Point(194, 90);
             this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(64, 19);
@@ -314,13 +316,14 @@
             this.picCalculateMoney.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picCalculateMoney.TabIndex = 4;
             this.picCalculateMoney.TabStop = false;
+            this.picCalculateMoney.Click += new System.EventHandler(this.picCalculateMoney_Click);
             // 
             // label5
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.Red;
-            this.label5.Location = new System.Drawing.Point(34, 90);
+            this.label5.Location = new System.Drawing.Point(41, 90);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(60, 19);
@@ -1187,7 +1190,7 @@
             this.linkLabel1.AutoSize = true;
             this.linkLabel1.Font = new System.Drawing.Font("Times New Roman", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.linkLabel1.LinkColor = System.Drawing.Color.Red;
-            this.linkLabel1.Location = new System.Drawing.Point(1022, 2);
+            this.linkLabel1.Location = new System.Drawing.Point(1435, 9);
             this.linkLabel1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.linkLabel1.Name = "linkLabel1";
             this.linkLabel1.Size = new System.Drawing.Size(116, 27);
@@ -1203,7 +1206,7 @@
             this.Appearance.Options.UseFont = true;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1548, 603);
+            this.ClientSize = new System.Drawing.Size(1564, 603);
             this.Controls.Add(this.linkLabel1);
             this.Controls.Add(this.tabControl);
             this.Font = new System.Drawing.Font("Times New Roman", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
